@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /#testimonials
+Sitemap: https://chillpanda.us/sitemap.xml
